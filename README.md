@@ -15,3 +15,12 @@
 - OVA file less than **1 GB**
 - **User and pass** of system is the same: **manjaro**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
+Integrity information:
+- **MD5:**  e3781565f64de70d584f2e891332a4ce
+- **SHA-1:**  72fbabcc19d06e08e6a23b8c0c8d53fb0ba79340
+- **SHA-256:**  2769deb64f01506729e37445a00a8bd2f82123a1d81cd1a937649472eb2644b0
+- **CRC32:**  85013e3a
+- **File type:**  TAR
+- **Magic:**  POSIX tar archive
+- **File size:**  924,1 MiB (968.979.456 bytes)
