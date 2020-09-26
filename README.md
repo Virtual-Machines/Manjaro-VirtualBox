@@ -12,6 +12,6 @@
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - It can be used as a base of development environments, to test software...
-- OVA file less than **1GB**
+- OVA file less than **1 GB**
 - **User and pass** of system is the same: **manjaro**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
