@@ -1,5 +1,5 @@
 # Manjaro VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Manjaro-VirtualBox/releases/download/latest/Manjaro.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Manjaro-VirtualBox/issues/1) - Last update: 2020-09-26
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Manjaro-VirtualBox/issues/1) - Last update: 2020-09-29
 
 ![Manjaro](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/manjaro.png)
 ![Pamac](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/pamac.png)
@@ -12,15 +12,15 @@
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - It can be used as a base of development environments, to test software...
-- OVA file less than **1 GB**
+- OVA file less than **900 MB**
 - **User and pass** of system is the same: **manjaro**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 Integrity information:
-- **MD5:**  e3781565f64de70d584f2e891332a4ce
-- **SHA-1:**  72fbabcc19d06e08e6a23b8c0c8d53fb0ba79340
-- **SHA-256:**  2769deb64f01506729e37445a00a8bd2f82123a1d81cd1a937649472eb2644b0
-- **CRC32:**  85013e3a
+- **MD5:**  16cad1a3d8f34135b4a580f4bedb1208
+- **SHA-1:**  c3db4432cd56ad114ebf04e98f981e3ddae22f00
+- **SHA-256:**  443a2646f78a572007a9a106a62e2970d385f9757b2153abd99c6d85c4384261
+- **CRC32:**  7ac25aa1
 - **File type:**  TAR
 - **Magic:**  POSIX tar archive
-- **File size:**  924,1 MiB (968.979.456 bytes)
+- **File size:**  848,7 MiB (889.912.832 bytes)
