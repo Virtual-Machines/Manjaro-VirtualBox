@@ -4,7 +4,7 @@
 ![Manjaro](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/manjaro.png)
 ![Pamac](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/pamac.png)
 
-- Minimal Manjaro **20.1.1** XFCE
+- Minimal Manjaro Mikah **20.1.1** XFCE
 - Linux Kernel **5.4 LTS**
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - **Pamac (pacman frontend)** package manager with **Official Repositories + AUR + Snap + Flatpak** integration
