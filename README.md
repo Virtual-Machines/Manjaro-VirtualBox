@@ -1,10 +1,10 @@
 # Manjaro VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Manjaro-VirtualBox/releases/download/latest/Manjaro.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Manjaro-VirtualBox/issues/1) - Last update: 2020-10-03
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Manjaro-VirtualBox/issues/1) - Last update: 2020-10-25
 
 ![Manjaro](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/manjaro.png)
 ![Pamac](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/pamac.png)
 
-- Minimal Manjaro Mikah **20.1.1** XFCE
+- Minimal Manjaro Mikah **20.1.2** XFCE
 - Linux Kernel **5.4 LTS**
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - **Pamac (pacman frontend)** package manager with **Official Repositories + AUR + Snap + Flatpak** integration
@@ -17,10 +17,9 @@
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 Integrity information:
-- **MD5:**  a2727fdc9e06d9572a2a0fc5e8f3ca50
-- **SHA-1:**  0cd8ee0df9c31a6770aeae275c750a7fcb1ddc2d
-- **SHA-256:**  1bea35129e3ea9d64ff360c392d88208f8770edd186bd081efb8b707c29f0c63
-- **CRC32:**  fab9242c
+- **MD5:**  0af0cb664a6735eac778eba5cea0840f
+- **SHA-1:**  9fe7f014a36aa9f6f84e65adcd75599d4ce03507
+- **SHA-256:**  5d031dd7800a7cf7d69319fe9bf6ade3ecbfcd71cce508fd42195138a8b4be80
 - **File type:**  TAR
 - **Magic:**  POSIX tar archive
-- **File size:**  1,1 GiB (1.180.797.952 bytes)
+- **File size:**  1,09 GB (1179053056 bytes)
