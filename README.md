@@ -23,4 +23,4 @@ Integrity information:
 - **CRC32:**  91e850c5
 - **File type:**  TAR
 - **Magic:**  POSIX tar archive
-- **File size:**  1,12 GB (1.219.196.416 bytes)
+- **File size:**  1,1 GB (1.219.196.416 bytes)
