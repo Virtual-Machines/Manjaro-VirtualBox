@@ -1,5 +1,5 @@
 # Manjaro VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Manjaro-VirtualBox/releases/download/latest/Manjaro.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Manjaro-VirtualBox/issues/1) - Last update: 2020-11-20
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Manjaro-VirtualBox/issues/1) - Last update: 2020-11-28
 
 ![Manjaro](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/manjaro.png)
 ![Pamac](https://raw.githubusercontent.com/Virtual-Machines/Manjaro-VirtualBox/master/pamac.png)
