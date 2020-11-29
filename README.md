@@ -7,7 +7,7 @@
 - Minimal Manjaro Nibia **20.2** XFCE
 - Linux Kernel **5.4 LTS**
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
-- **Pamac (pacman frontend)** package manager with **Official Repositories + AUR + Snap + Flatpak** integration
+- **Pamac (pacman frontend)** package manager with **Official Repositories + AUR** integration
 - Basic python http server included. Example: python -m http.server 8080
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
